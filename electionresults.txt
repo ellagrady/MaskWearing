@@ -1,0 +1,52 @@
+State,Winner,Votes,percent,Loser,Votes,percent
+Alabama,Trump,1434159,62.1,Biden,843473,36.5
+Alaska,Trump,148624,56.9,Biden,102080,39.1
+Arizona,Biden,1670260,49.39,Trump,1659274,49.07
+Arkansas,Trump,757052,62.6,Biden,418051,34.6
+California,Biden,10272097,64.3,Trump,5370837,33.6
+Colorado,Biden,1783149,55.4,Trump,1347516,41.9
+Connecticut,Biden,1079168,59.2,Trump,714176,39.2
+Delaware,Biden,296268,58.8,Trump,200603,39.8
+Florida,Trump,5667474,51.2,Biden,5294767,47.8
+Georgia,Biden,2472182,49.52,Trump,2458010,49.23
+Hawaii,Biden,365802,63.7,Trump,196602,34.3
+Idaho,Trump,554019,63.8,Biden,286991,33.1
+Illinois,Biden,3270409,56.7,Trump,2382711,41.3
+Indiana,Trump,1727234,57,Biden,1239770,40.9
+Iowa,Trump,897004,53.1,Biden,758211,44.9
+Kansas,Trump,753370,56.5,Biden,551199,41.3
+Kentucky,Trump,1326347,62.1,Biden,772223,36.2
+Louisiana,Trump,1255776,58.5,Biden,856034,39.9
+Maine,Biden,420357,53.5,Trump,341949,43.5
+Maryland,Biden,1732320,64.4,Trump,906094,33.7
+Massachusetts,Biden,2271763,65.2,Trump,1131042,32.5
+Michigan,Biden,2795649,50.5,Trump,2647004,47.9
+Minnesota,Biden,1718733,52.5,Trump,1485333,45.4
+Mississippi,Trump,688745,59.4,Biden,452795,39.1
+Missouri,Trump,1711848,56.9,Biden,1242851,41.3
+Montana,Trump,341765,56.7,Biden,243716,40.4
+Nebraska,Trump,551499,58.5,Biden,368994,39.2
+Nevada,Biden,671887,50.2,Trump,635017,47.5
+New Hampshire,Biden,424937,52.8,Trump,365660,45.5
+New Jersey,Biden,2315225,57.4,Trump,1657253,41.1
+New Mexico,Biden,499378,54.2,Trump,401197,43.6
+New York,Biden,3701835,55.7,Trump,2852042,42.9
+North Carolina,Trump,2754822,50.0,Biden,2681124,48.6
+North Dakota,Trump,235479,65.1,Biden,114863,31.8
+Ohio,Trump,3074400,53.3,Biden,2603677,45.2
+Oklahoma,Trump,1020280,65.4,Biden,503890,32.3
+Oregon,Biden,1327416,56.5,Trump,947519,40.3
+Pennsylvania,Biden,3381173,49.75,Trump,3329726,48.99
+Rhode Island,Biden,306113,59.6,Trump,199810,38.9
+South Carolina,Trump,1385103,55.1,Biden,1091541,43.4
+South Dakota,Trump,261043,61.8,Biden,150471,35.6
+Tennessee,Trump,1849820,60.7,Biden,1139376,37.4
+Texas,Trump,5866019,52.1,Biden,5218943,46.4
+Utah,Trump,833485,58.1,Biden,542452,37.8
+Vermont,Biden,242544,66,Trump,112488,30.6
+Virginia,Biden,2410659,54.2,Trump,1969862,44.3
+Washington,Biden,2344336,58.5,Trump,1556739,38.9
+Washington D.C.,Biden,287528,93.2,Trump,16306,5.3
+West Virginia,Trump,542670,68.7,Biden,234197,29.6
+Wisconsin,Biden,1630577,49.45,Trump,1610052,48.83
+Wyoming,Trump,193559,69.9,Biden,73491,26.6
