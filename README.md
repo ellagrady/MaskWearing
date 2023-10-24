@@ -2,6 +2,7 @@
 Correlation between mask-wearing and 2020 presidential election results by state
 
 December 4, 2020
+
 Mask Wearers and Who They Voted For
 The program is designed to create a graphical user interface (GUI) window that contains
 a grid of buttons, each representing a different state in the United States. Upon clicking one state
